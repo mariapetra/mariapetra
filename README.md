@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maria Claydon and I'm an aspiring Software Developer based in Perth, Western Australia</h1>
+<h1 align="center">Hi, I'm Maria Claydon and I'm a Software Developer based in Perth, Western Australia</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,react,py,django,heroku" />
