@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Maria Claydon and I'm a Software Developer based in Perth, Western Australia</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,react,py,django,heroku" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,react,py,django,heroku,sql,postgres" />
   </a>
 </p>
-<p align="center">Hi, thanks for checking out my Github profile. I’m Maria Claydon, a Software Developer, currently living and working in Perth, Western Australia.
+<p align="center">Hi, thanks for checking out my Github profile. I’m Maria Claydon, a Fullstack Software Developer, currently living and working in Perth, Western Australia.
 </p>
+<p>My current position is working is in DevOps, working on a fullstack application for a large resources company with Django backend and React frontend.</p>
 <p align="center">In June 2022 I completed a coding scholarship with She Codes Australia as part of the She Codes Plus Perth 2021 Cohort. 
 A fantastic initiative aiming to bridge the gap for women in the tech industry. I am very grateful to have been selected to learn to code 
 with mentors from the tech industry alongside some amazing women. You can hear more about my coding journey in my blog. My favourite languages 
@@ -24,7 +25,5 @@ camping. Thank you for reading my bio. If you want to know more then please get 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariapetra&layout=compact)](https://github.com/mariapetra/github-readme-stats)
-  
-[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapetra&hide=stars,issues)](https://github.com/mariapetra/github-readme-stats)
-  
+
 </div>
